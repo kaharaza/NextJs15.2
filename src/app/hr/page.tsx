@@ -1,7 +1,7 @@
 "use client";
 import { Footer } from "../component/footer";
 import { Navbar } from "../component/navbar";
-import "flowbite";
+
 
 export default function Page() {
   return (

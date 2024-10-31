@@ -1,9 +1,5 @@
+const Home = (): JSX.Element => {
+  return <h1 className="text-3xl font-bold underline text-emerald-700">Hello world!</h1>;
+};
 
-
-export default function Home() {
-  return (
-    <div className="flex min-h-screen flex-col items-center justify-center py-2">
-      <h1>TEST</h1>
-    </div>
-  );
-}
+export default Home;
