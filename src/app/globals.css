@@ -13,6 +13,9 @@
     --foreground: #ededed;
   }
 }
+* {
+  font-family: Kanit, sans-serif;
+}
 
 body {
   color: var(--foreground);
